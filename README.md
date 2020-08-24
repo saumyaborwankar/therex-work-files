@@ -1,2 +1,2 @@
 # therex-work-files
-Basic music generation using GANs, kafka pipeline code and Wavelet transformations for noise removal
+Basic music (Lo-Fi) generation using GANs, kafka pipeline code and Wavelet transformations for noise removal
