@@ -6,12 +6,6 @@ import python_speech_features
 import scipy as sp
 from scipy import signal
 
-# http://python-speech-features.readthedocs.io/en/latest/
-# https://github.com/jameslyons/python_speech_features
-# http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/#deltas-and-delta-deltas
-
-
-# http://dsp.stackexchange.com/search?q=noise+reduction/
 
 '''------------------------------------
 FILE READER:
